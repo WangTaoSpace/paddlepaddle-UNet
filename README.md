@@ -3,5 +3,5 @@ UNet by paddlepaddle
 
 
 
-A copy of Pytorch-UNet address is https://github.com/milesial/Pytorch-UNet
+A imitation of Pytorch-UNet address is https://github.com/milesial/Pytorch-UNet
 
